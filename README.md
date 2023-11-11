@@ -1,2 +1,2 @@
 # Glow-3PO
-All the files for the Glow-3PO server.
+The world download for my local server.
